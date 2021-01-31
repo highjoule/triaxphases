@@ -2,7 +2,7 @@
 This code aims to read and retrieve important parameters of soil mechanics from triaixial test.
 
 During the study of soft soil in soil mechanics, is vital to understand the behaviour of deformation and the stiffness of such material.
-In reality, a lot of important parameters are retrieved by performing a triaxial test. And the most common test in laboratories is the consolidated undrained (CU) test. Usually, test apparatus returns data in a .csv file. I will make use of this .csv file of both CD and CU and analyze them. 
+In reality, a lot of important parameters are retrieved by performing a triaxial test. And the most common test in laboratories is the consolidated undrained (CU) test. Usually, test apparatus returns data in a .csv file. I will make use of this .csv file of both CD and CU and analyse them. 
 
 Although, I explain just briefly how to perform a triaxial test, this code is not a guide of such. Also, I mention some relevant mechanical parameters
 not all are explained closely.
