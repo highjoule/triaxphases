@@ -15,7 +15,7 @@ Basically, this test works in two phases: one of consolidation, where the sample
 in the material is applied. In the second phase, two possible options can follow: one where the excess pore pressure in the sample is avoided (Drained); or another where
 pore pressure changes is allowed (Undrained). The latter is known as CU test, or consolidated undrained test. After the test analysis undrained shear strength and friction angle can be calculated.
 
-With this code I will show that CU and CD tests can be equally analised.
+With this code I will show that CU and CD tests can be equally analised in theory. After all information is retrieved in kernel, I will show how to generate a PDF report of this important data.
 
 
 
