@@ -17,5 +17,10 @@ pore pressure changes is allowed (Undrained). The latter is known as CU test, or
 In this repository, I am going to explain how to handle triaixial test data in order to be able to separate the data in two sets: one with consolidation phase and a second with 
 shear phase. 
 
+Therefore, a graph such as this:
 
+![](https://github.com/highjoule/triaxread/blob/main/images/graphs_whole.PNG)
 
+Can be plotted into this:
+
+![](https://github.com/highjoule/triaxread/blob/main/images/graphs_shear.PNG)
