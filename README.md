@@ -1,4 +1,5 @@
-# triaxread
+# triax_phases
+
 This code aims to read and retrieve important parameters of soil mechanics from triaixial test.
 
 During the study of soft soil in soil mechanics, is vital to understand the behaviour of deformation and the stiffness of such material.
