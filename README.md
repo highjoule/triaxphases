@@ -28,4 +28,4 @@ Can be plotted into this:
 ![](https://github.com/highjoule/triaxread/blob/main/images/graphs_shear.PNG)
 
 
-Check triax_phases.md for the code.
+Check ![triax_phases.md](https://github.com/highjoule/triaxphases/edit/main/README.md) for the code.
