@@ -6,6 +6,7 @@ In reality, a lot of important parameters are retrieved by performing a triaxial
 
 Although, I explain just briefly how to perform a triaxial test, this code is not a guide of such. Also, I mention some relevant mechanical parameters, which are not fully explained closely. Some previuos knowledge on soil physics is useful to fully understand these entries.
 
+
 ## Scope
 
 This code aims to analyse and compute the most important soil parameters used in academia and construction industry from a CU triaxial test.
@@ -24,3 +25,6 @@ Therefore, a graph such as this:
 Can be plotted into this:
 
 ![](https://github.com/highjoule/triaxread/blob/main/images/graphs_shear.PNG)
+
+
+Check triax_phases.md for the code.
