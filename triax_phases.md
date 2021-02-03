@@ -68,6 +68,10 @@ if 'Rawdata' in pd.ExcelFile(filename).sheet_names:
 
 ```
 
+## Sample of excel spread sheet
+
+![](https://github.com/highjoule/triaxread/blob/main/images/rawdata.PNG)
+
 
 ```python
 dftrim
@@ -384,12 +388,16 @@ plt.show()
 ```
 
 
-![png](output_6_0.png)
+![](https://github.com/highjoule/triaxread/blob/main/images/axial%20displacement.png)
+
 
 
 # Gradient comparison
 
 The function below, takes step by step the time of the test and evaluates the slope of 100 steps ahead. When the value of the slope is above 0.00015 a second if evaluates if the slope of the 100 values behind is close to zero, in this case 1e-07. When both are true, the point of change between consolidation and shearing is found.
+
+
+![](https://github.com/highjoule/triaxread/blob/main/images/axial%20displacement_1.png)
 
 As seen below, the code shows a value of 20.63 hrs. Which can be verified by observing the graph of time vs displacement.
 
@@ -1052,7 +1060,7 @@ plt.grid(b=True, which='minor', color='#999999', linestyle='-', alpha=0.2)
 ```
 
 
-![png](output_14_0.png)
+![](https://github.com/highjoule/triaxread/blob/main/images/displ_time_whole.png)
 
 
 
@@ -1069,8 +1077,8 @@ plt.minorticks_on()
 plt.grid(b=True, which='minor', color='#999999', linestyle='-', alpha=0.2)
 ```
 
+![](https://github.com/highjoule/triaxread/blob/main/images/displ_time_shear.png)
 
-![png](output_15_0.png)
 
 
 
